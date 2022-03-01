@@ -6,12 +6,16 @@
 
 I'm eve0415. You can call me eve or Ibuki.
 
-## I'm currently learning:
+As of Janurary 2022, I am currently looking for a job.
+
+## I'm currently learning
 
 - JavaScript
 - TypeScript
 - Java
 - Kotlin
+- Kubernetes
+- Docker
 - English
 
 ## I make
