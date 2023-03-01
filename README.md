@@ -12,6 +12,7 @@ I'm eve0415. You can call me eve or Ibuki.
 - TypeScript
 - Java
 - Kotlin
+- Python
 - Go
 - Visual Basic for Applications
 - Docker
