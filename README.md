@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm eve0415. You can call me eve or Ibuki.
+I'm eve0415. You can call me eve.
 
 ## I'm currently learning
 
@@ -14,10 +14,14 @@ I'm eve0415. You can call me eve or Ibuki.
 - Kotlin
 - Python
 - Go
+- C
 - Visual Basic for Applications
 - Docker
 - Kubernetes
+- React
+- OpenTelemetry
 - Prometheus
+- MATLAB
 - English
 
 ## I make
