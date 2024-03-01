@@ -14,10 +14,12 @@ I'm eve0415. You can call me eve.
 - Kotlin
 - Python
 - Go
+- Rust
 - C
 - Visual Basic for Applications
 - Docker
 - Kubernetes
+- Cloudflare
 - React
 - OpenTelemetry
 - Prometheus
